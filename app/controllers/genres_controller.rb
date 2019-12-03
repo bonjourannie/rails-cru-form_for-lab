@@ -4,7 +4,7 @@ class GenresController < ApplicationController
   end
 
   def show
-    
+    @genre = Genre.
   end
 
   def new
